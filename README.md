@@ -4,7 +4,7 @@ Welcome to my portfolio! I am a passionate developer with experience in Django, 
 
 ## About Me
 - **Location**: India
-- **Email**: shaquib@example.com
+- **Email**: shaquibdbg@gmail.com
 - **GitHub**: [github.com/shaquibkhan](https://github.com/shaquibkhan)
 - **Skills**: Python, Django, Flutter, HTML/CSS, JavaScript
 
