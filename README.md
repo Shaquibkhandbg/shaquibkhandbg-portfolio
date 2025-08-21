@@ -1,4 +1,4 @@
-# Shaquib Khan's Developer Portfolio
+
 
 Welcome to my portfolio! I am a passionate developer with experience in Django, Flutter, and more, currently working on "testniti" – a BPSC PYQ test platform.
 
